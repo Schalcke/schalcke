@@ -7,7 +7,7 @@ I am a full-stack web developer (with a great front-end attraction) based in DAK
  
 ---
 
-- 🔭 I’m currently working on www.comit-lab.com 
+- 🔭 I’m currently working at www.comit-lab.com 
 - 📫 How to reach me: contact@mohamedsow.com 
 
 ---
