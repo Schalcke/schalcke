@@ -46,6 +46,6 @@ I am a full-stack web developer (with a great front-end attraction) based in DAK
 
 ![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schalcke)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=schalcke) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=schalcke&theme=dark) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=schalcke&theme=dark&show_icons=true)  
