@@ -119,6 +119,7 @@ I am a full-stack web developer (with a great front-end attraction) based in DAK
 ---
 
 ![Profile views](https://gpvc.arturio.dev/schalcke)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schalcke&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=schalcke&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 
