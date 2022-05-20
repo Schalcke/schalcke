@@ -1,5 +1,4 @@
-### Hi there 👋🏽, Mohamed SOW
-#### I am Web and Mobile Developer
+![I am Web and Mobile Developer](https://www.mohamedsow.com/wp-content/uploads/2022/05/Schalcke-Git-Hub-Banner_Plan-de-travail-1.png)
 
 ---
 
