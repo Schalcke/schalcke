@@ -104,7 +104,7 @@ I am a full-stack web developer (with a great front-end attraction) based in DAK
                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
             </td>
             <td width="80px" align="center">
-                <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg">
+                <img height="32px" src="https://play-lh.googleusercontent.com/BaPQwHryyFBlxlFRhZdyTVFN77-KivMmcOano34lTpoB91fLcsvPu_pXH6gxEsRSxoM">
             </td>
         </tr>
     </tbody>
