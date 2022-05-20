@@ -42,11 +42,9 @@ I am a full-stack web developer (with a great front-end attraction) based in DAK
 
 ![Profile views](https://gpvc.arturio.dev/schalcke)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=schalcke)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=schalcke-ma&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy) 
 
 ![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schalcke)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schalcke&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=schalcke&theme=dark) 
 
