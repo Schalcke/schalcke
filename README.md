@@ -9,13 +9,13 @@ I am a full-stack web developer (with a great front-end attraction) based in DAK
 
 ---
 
-🤝🏽 Social 
+##🤝🏽 Social 
 
 <a href="https://www.linkedin.com/in/mohamed-sow-833858156/"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a> <a href="https://twitter.com/sowmohamed96"> <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'></a> <a href="https://www.facebook.com/profile.php?id=100021445321859"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'></a> <a href="https://wa.me/+221781756385"><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'></a>
    
 ---
 
-👨🏽‍💻 Languages 🚀 Frameworks 📱 Mobile ⚡ Database CMS and ☁️ Cloud 
+##👨🏽‍💻 Languages 🚀 Frameworks 📱 Mobile ⚡ Database CMS and ☁️ Cloud 
 
 <table width="320px">
     <tbody>
@@ -112,7 +112,7 @@ I am a full-stack web developer (with a great front-end attraction) based in DAK
 
 ---
 
-👨🏾‍💻 Office 
+##👨🏾‍💻 Office 
 
 <img src='https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white'> <img src='https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white'> <img src='https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white'>  
 
