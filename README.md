@@ -19,7 +19,7 @@ I am a full-stack web developer (with a great front-end attraction) based in DAK
             </td>
             <td width="80px" align="center">
             <span><strong>Java</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
