@@ -95,10 +95,10 @@ I am a full-stack web developer (with a great front-end attraction) based in DAK
                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
             </td>
             <td width="80px" align="center">
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
+                <img height="32px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
             </td>
             <td width="80px" align="center">
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
             </td>
             <td width="80px" align="center">
                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
