@@ -1,6 +1,7 @@
 ![I am Web and Mobile Developer](https://www.mohamedsow.com/wp-content/uploads/2022/05/Git-Hub-Banner.png)
 
-I am a full-stack web developer (with a great front-end attraction) based in DAKAR - SALY, Senegal 🇸🇳, working in the field of web and mobile development. Currently, I work full time at [Comit Lab](https://www.comit-lab.com/), with over 4 years of experience. I am also the founder of [Yottogay](wwww.yotto-gay.com), a platform of advertisement and connection that has for mission to promote all the places (hotels - restaurants - villa...) activities (tourist - event...), or services present in Mbour.
+I am a full-stack web developer (with a great front-end attraction) based in DAKAR - SALY, Senegal 🇸🇳, working in the field of web and mobile development. Currently, I work full time at [Simplify Stack](https://www.simplifystack.com/), with over 4 years of experience. 
+I am also the founder of [Pinaltech](wwww.pinaltech.com) a digital agency and [Yottogay](wwww.yotto-gay.com), a platform of advertisement and connection that has for mission to promote all the places (hotels - restaurants - villa...) activities (tourist - event...), or services present in Mbour.
  
 ---
 
